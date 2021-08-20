@@ -1,4 +1,8 @@
 Test modificacion en simultaneo 1
 Dale bokee
+<<<<<<< HEAD
+agrego texto para realizar un conflicto JM
+=======
 Aguante el fernet con pomelo
 JEEEE
+>>>>>>> 3bac2a862359ada95c8862765fa0e9356675f8df
